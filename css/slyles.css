@@ -228,6 +228,11 @@ margin-top: 0;
 margin-bottom: 12px;
 }
 
+.experience-link {
+    text-decoration: none;
+    color: #6D9BF5;
+}
+
 .company-name {
 color: #6D9BF5;
 }
